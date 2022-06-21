@@ -6,7 +6,7 @@ Hvordan virker programmet
 -------------------------
 Programmet kører i et kommandovindue.
 
-Som det første skal man indtaste stien til den excel hvor pdf linksne befinder sig. Hvis man indtaste et forkert eller undlader at indtaste en sti ved at trykke enter vælges C:\Users\KOM\Downloads\GRI_2017_2020 (1)
+Som det første skal man indtaste stien til den excel hvor pdf linksne befinder sig. Hvis man indtaster et forkert eller undlader at indtaste en sti ved at trykke enter vælges C:\Users\KOM\Downloads\GRI_2017_2020 (1)
 
 Derefter har man mulighed for at specificere hvilken kolonne pdf linksne befinder sig i (først de primære links og derefter de sekundære). Hvis man ikke vælger (trykker enter) kolonner vælges henholdsvis kolonne nr. 38 og 39.
 
